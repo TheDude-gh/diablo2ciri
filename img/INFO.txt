@@ -1,0 +1,1 @@
+Folder to store converted images from dc6 format.
