@@ -37,7 +37,8 @@ Licence: GNU GENERAL PUBLIC LICENSE Version 3
   However this would only work when you are running it from your PC on localhost.
   On real webserver, copy saves to folder by yourself.
 
-  Character option shows list of characters, you can then view details of picked character. By hovering mouse over items, the properties will display.
+  Character option shows list of characters, you can then view details of picked character.
+  By hovering mouse over items, the properties will display.
   Similarly for stashes.
 
 
@@ -56,26 +57,26 @@ Licence: GNU GENERAL PUBLIC LICENSE Version 3
   Diablo II®
   BLIZZARD ENTERTAINMENT®
 
-	Big thanks to these guys and authors of applications and guides
-	Especially to gomule authors for releasing source code which was biggest help
+  Big thanks to these guys and authors of applications and guides
+  Especially to gomule authors for releasing source code which was biggest help
   https://sourceforge.net/projects/gomule/
   https://github.com/sylecn/gomule
 
   https://user.xmission.com/~trevin/DiabloIIv1.09_File_Format.shtml - Diablo II Saved Game File Format
-	https://d2mods.info/forum/viewtopic.php?p=248164#248164	TXT files guide
-  https://github.com/krisives/d2s-format  - Diablo II Save File Format
+  https://d2mods.info/forum/viewtopic.php?p=248164#248164 - TXT files guide
+  https://github.com/krisives/d2s-format - Diablo II Save File Format
 
   Thanks to
-	ATMA
+  ATMA
   
-	And also some links with guides and useful information about Diablo II, thanks too
-	https://d2mods.info/forum/downloadsystemcat?id=23
-	http://paul.siramy.free.fr/_divers2/mtmptutcmap/
-	https://www.diablofans.com/forums/site-related/diablowiki/3711-dr-tester-guide
-	http://paul.siramy.free.fr/_divers2/tmptutcmap/
-	http://paul.siramy.free.fr/
-	https://d2mods.info/forum/viewtopic.php?f=8&t=9011
-	https://github.com/Zutatensuppe/DiabloInterface
+  And also some links with guides and useful information about Diablo II, thanks too
+  https://d2mods.info/forum/downloadsystemcat?id=23
+  http://paul.siramy.free.fr/_divers2/mtmptutcmap/
+  https://www.diablofans.com/forums/site-related/diablowiki/3711-dr-tester-guide
+  http://paul.siramy.free.fr/_divers2/tmptutcmap/
+  http://paul.siramy.free.fr/
+  https://d2mods.info/forum/viewtopic.php?f=8&t=9011
+  https://github.com/Zutatensuppe/DiabloInterface
   
 
 
